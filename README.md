@@ -1,0 +1,3 @@
+This file is about the containarized interface between CHARMM and GAMESS programs.
+
+Due to ...
