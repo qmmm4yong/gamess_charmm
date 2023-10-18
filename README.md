@@ -10,7 +10,7 @@ In the future I will provide a protoype container that can compile
 CHARMM and GAMESS by the users themselves, but for now I make one
 myself and put it on a private link.
 
-The repository has 3 prototype jupyter notebooks:
+The repository has 4 prototype jupyter notebooks:
 
 1.   You can do a simple QM/MM calculation with the files from
      CHARMM-GUI. You just need to specify the names of the files and
