@@ -10,7 +10,7 @@ In the future I will provide a protoype container that can compile
 CHARMM and GAMESS by the users themselves, but for now I make one
 myself and put it on a private link.
 
-The repository has 3 prototype jupyter notbooks:
+The repository has 3 prototype jupyter notebooks:
 
 1.   You can do a simple QM/MM calculation with the files from
      CHARMM-GUI. You just need to specify the names of the files and
@@ -42,7 +42,7 @@ The repository has 3 prototype jupyter notbooks:
    processsors. Currenty this is not yet implemented.
    
    Use vibran notebook. Specify structure which mst be minimized
-   (either minimum or transition state) befr frequency calculation.
+   (either minimum or transition state) befor frequency calculation.
    
    For this we use 2 notebooks: vibran, freq. Vibran caclulates the
    Hessian and saves it on a specified file. Vibrational commands are
