@@ -5,6 +5,7 @@ Due to licensing demands for both GAMESS and CHARMM, the container
 itself is not on this repository. One must first obtain the license
 for CHARMM and GAMESS programs, both free of charge and then write to
 milan@cmm.ki.si to obtain access to the container itself.
+This covers item 1. b. in the deliverables section of Statement of Work (SoW). Also cowers the subtasks 1.1, 4.1, 4.2 and 4.3 
 
 In the future I will provide a protoype container that can compile
 CHARMM and GAMESS by the users themselves, but for now I make one
@@ -18,13 +19,16 @@ The repository has 4 prototype jupyter notebooks:
      notebook will make a QM/MM file for you. You can run this file on
      a computer with many processors using any batch system you like.
 
-    Currently the selection of QM atoms is specifed as a string, but
-    in the future it can be improved to be specified by picking QM
-    atoms with the mouse clicks.
+
+
+     Currently the selection of QM atoms is specifed as a string, but
+     in the future it can be improved to be specified by picking QM
+     atoms with the mouse clicks.
     
-    Use simulation notebook for this.
+     Use simulation notebook for this.
     
-   
+     This effort covers the second item of deliverables in the SoW including the subtask 2.1 
+
 2. Setup for the Replica Path calculations. This is an efficient
    implementation because the job can be executed in parallel/parallel
    setup. This means that each replica is a separate job, executed in
