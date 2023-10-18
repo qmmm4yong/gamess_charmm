@@ -19,8 +19,6 @@ The repository has 4 prototype jupyter notebooks:
      notebook will make a QM/MM file for you. You can run this file on
      a computer with many processors using any batch system you like.
 
-
-
      Currently the selection of QM atoms is specifed as a string, but
      in the future it can be improved to be specified by picking QM
      atoms with the mouse clicks.
