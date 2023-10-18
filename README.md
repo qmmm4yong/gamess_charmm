@@ -1,6 +1,3 @@
-V tekstu oznaci deliverables, da se bo videlo, da sem naredil vse...
-
-No do srede bom naredil le vibran and freq note booka, verjetno!
 
 This repositoy is about the containarized interface between CHARMM and GAMESS programs.
 
