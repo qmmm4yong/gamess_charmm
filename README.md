@@ -43,7 +43,7 @@ The repository has 4 prototype jupyter notebooks:
    very efficient parallel calculation, using more than 1000
    processsors. Currenty this is not yet implemented.
    
-   Use vibran notebook. Specify structure which mst be minimized
+   Use [vibran](vibran.ipynb) notebook. Specify structure which mst be minimized
    (either minimum or transition state) befor frequency calculation.
    
    For this we use 2 notebooks: vibran, freq. Vibran caclulates the
