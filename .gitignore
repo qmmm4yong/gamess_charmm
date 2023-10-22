@@ -5,4 +5,5 @@ test/xx*
 test/ala.gms
 test/*.out
 test/*.dcd
+test/.ipynb_checkpoint
 .ipynb_checkpoint
