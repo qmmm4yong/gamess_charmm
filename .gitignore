@@ -1,1 +1,8 @@
 vib.inp
+test.*
+test/test.*
+test/xx*
+test/ala.gms
+test/*.out
+test/*.dcd
+.ipynb_checkpoint
