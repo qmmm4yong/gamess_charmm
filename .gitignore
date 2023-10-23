@@ -3,7 +3,9 @@ test.*
 test/test.*
 test/xx*
 test/ala.gms
+test/gmstst.psf
+test/gmstst_min.cor
 test/*.out
 test/*.dcd
-test/.ipynb_checkpoint
-.ipynb_checkpoint
+test/.ipynb_checkpoints/*
+.ipynb_checkpoints/*
