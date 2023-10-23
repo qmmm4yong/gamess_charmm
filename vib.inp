@@ -3,3 +3,9 @@ vibran
 digonalize numeric
 end
 
+open write unit 1 card name frq.amode
+vibran
+diag finit
+write norm card unit 1
+end
+
