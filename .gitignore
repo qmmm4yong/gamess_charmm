@@ -9,3 +9,5 @@ test/*.out
 test/*.dcd
 test/.ipynb_checkpoints/*
 .ipynb_checkpoints/*
+*.out
+
